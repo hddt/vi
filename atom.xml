@@ -1,149 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
 
-<!DOCTYPE html>
-<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
-<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
-<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
-<head>
-  <meta charset="utf-8">
-  <title>HOÀNG</title>
-  <meta name="author" content="hoangddt">
-  
-
-
-
-
-
-
-
-
-
-
-
-
-<meta name="description" content="Khảo sát năm 2015 của Stack Overflow Nếu bạn đang đọc bài này, có lẽ bạn là một nam developer khoảng hơn 20 tuổi. Bạn tự học lập trình bằng một máy &hellip;"/>
-<!-- Twitter Card -->
-<meta name="twitter:card" content="summary_large_image"/>
-<meta name="twitter:description" content="Khảo sát năm 2015 của Stack Overflow Nếu bạn đang đọc bài này, có lẽ bạn là một nam developer khoảng hơn 20 tuổi. Bạn tự học lập trình bằng một máy &hellip;"/>
-<meta name="twitter:title" content="HOÀNG"/>
-<meta name="twitter:site" content="@hoangddt"/>
-<meta name="twitter:domain" content="Quoc Hoang Blog"/>
-<meta name="twitter:image:src" content="http://i.imgur.com/GaSz3Gl.jpg"/>
-<meta name="twitter:creator" content="@hoangddt"/>
-<!-- og social -->
-<meta property="og:locale" content="en_US" />
-<meta property="og:type" content="article" />
-<meta property="og:title" content="HOÀNG" />
-<meta property="og:description" content="Khảo sát năm 2015 của Stack Overflow Nếu bạn đang đọc bài này, có lẽ bạn là một nam developer khoảng hơn 20 tuổi. Bạn tự học lập trình bằng một máy &hellip;" />
-<meta property="og:url" content="http://hddt.github.io/vi/" />
-<meta property="og:site_name" content="Quoc Hoang Blog" />
-<meta property="og:image" content="http://i.imgur.com/GaSz3Gl.jpg" />
-
-<!-- article -->
-<meta property="article:publisher" content="https://www.facebook.com/hoangddt.net" />
-<meta property="article:author" content="hoangddt" />
-<meta property="article:tag" content="Facebook,Google Plus,Meta Tags,Pinterest,Social,Twitter" />
-<meta property="article:section" content="Social Media" />
-
-
-<!-- item prop for Google+-->
-<meta itemprop="name" content="HOÀNG">
-<meta itemprop="description" content="Khảo sát năm 2015 của Stack Overflow Nếu bạn đang đọc bài này, có lẽ bạn là một nam developer khoảng hơn 20 tuổi. Bạn tự học lập trình bằng một máy &hellip;">
-<meta itemprop="image" content="http://i.imgur.com/GaSz3Gl.jpg">
-<meta property=”fb:admins” content=”100002966771454” />
-
-  
-  
-
-  <!-- http://t.co/dKP3o1e -->
-  <meta name="HandheldFriendly" content="True">
-  <meta name="MobileOptimized" content="320">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-
-  
-  <link rel="canonical" href="http://hddt.github.io/vi/">
-  <link href="/vi/favicon.png" rel="icon">
-  <link href="/vi/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
-  <link href="/vi/atom.xml" rel="alternate" title="HOÀNG" type="application/atom+xml">
-  <script src="/vi/javascripts/modernizr-2.0.js"></script>
-  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-  <script>!window.jQuery && document.write(unescape('%3Cscript src="/javascripts/libs/jquery.min.js"%3E%3C/script%3E'))</script>
-  <script src="/vi/javascripts/octopress.js" type="text/javascript"></script>
-  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
-<link href="http://fonts.googleapis.com/css?family=Open+Sans:400italic,600italic,400,600" rel="stylesheet" type="text/css">
-<link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:600,600italic" rel="stylesheet" type="text/css">
-  
-  <script type="text/javascript">
-    var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', 'UA-62089207-1']);
-    _gaq.push(['_trackPageview']);
-
-    (function() {
-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-    })();
-  </script>
-
-
-</head>
-
-<body   >
-  <header role="banner"><hgroup>
-  <h1><a href="/vi/">HOÀNG</a></h1>
-  
-    <h2>Khám phá công nghệ</h2>
-  
-</hgroup>
-
-</header>
-  <nav role="navigation"><ul class="subscription" data-subscription="rss">
-  <li><a href="/vi/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
-  
-</ul>
-  
-<form action="https://www.google.com/search" method="get">
-  <fieldset role="search">
-    <input type="hidden" name="sitesearch" value="hddt.github.io/vi">
-    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
-  </fieldset>
-</form>
-  
-<ul class="main-navigation">
-  <li><a href="/vi/">Blog</a></li>
-  <li><a href="/vi/blog/archives">Archives</a></li>
-</ul>
-
-</nav>
-  <div id="main">
-    <div id="content">
-      <div class="blog-index">
-  
-  
-  
-    <article>
-      
-  <header>
+  <title><![CDATA[HOÀNG]]></title>
+  <link href="http://hddt.github.io/vi/atom.xml" rel="self"/>
+  <link href="http://hddt.github.io/vi/"/>
+  <updated>2015-06-06T20:56:48+07:00</updated>
+  <id>http://hddt.github.io/vi/</id>
+  <author>
+    <name><![CDATA[hoangddt]]></name>
     
-      <h1 class="entry-title"><a href="/vi/blog/2015/04/stack-overflow-survey/">Khảo Sát Năm 2015 Của Stack Overflow</a></h1>
-    
-    
-      <p class="meta">
-        
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
 
-
-
-
-<time class='entry-date' datetime='2015-04-21T00:17:50+07:00'><span class='date'><span class='date-month'>Apr</span> <span class='date-day'>21</span><span class='date-suffix'>st</span>, <span class='date-year'>2015</span></span> <span class='time'>12:17 am</span></time>
-        
-           | <a href="/vi/blog/2015/04/stack-overflow-survey/#disqus_thread"
-             data-disqus-identifier="http://hddt.github.io/vi/blog/2015/04/stack-overflow-survey/">Comments</a>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><h1 id="kho-st-nm-2015-ca-stack-overflow">Khảo sát năm 2015 của Stack Overflow</h1>
+  
+  <entry>
+    <title type="html"><![CDATA[Khảo Sát Năm 2015 Của Stack Overflow]]></title>
+    <link href="http://hddt.github.io/vi/blog/2015/04/stack-overflow-survey/"/>
+    <updated>2015-04-21T00:17:50+07:00</updated>
+    <id>http://hddt.github.io/vi/blog/2015/04/stack-overflow-survey</id>
+    <content type="html"><![CDATA[<h1 id="kho-st-nm-2015-ca-stack-overflow">Khảo sát năm 2015 của Stack Overflow</h1>
 
 <p>Nếu bạn đang đọc bài này, có lẽ bạn là một nam developer khoảng hơn 20 tuổi. Bạn tự học lập trình bằng một máy tính chạy Windows và Notepad++. Bạn sử dụng Git và Javascript thường xuyên và uống 2 ly cà phê một ngày.
 Đó là <strong>hồ sơ</strong> chung của trung bình các developer Stack Overflow sau cuộc khảo sát <a href="http://stackoverflow.com/research/developer-survey-2015">năm 2015</a> của Stack Overflow. Hãy nhìn vào cuộc khảo sát này rõ hơn.</p>
@@ -225,98 +100,7 @@ Hai phần ba mọi người đều là nhân viên chính thức, 9% là làm v
 <p>52.5% số người được hỏi và phần lơn front-end coders thích dùng theme tối, Các theme sáng được lựa chọn bới các nhà lập trình ứng dụng desktop.</p>
 
 <p>Một lượng lớn developers dùng Git (70%). 37% dùng SVN. Nhưng đáng lo ngại là 9.3% không quan tâm đến công cụ quản lý mã nguồn nào.</p>
-</div>
+]]></content>
+  </entry>
   
-  
-
-
-    </article>
-  
-  <div class="pagination">
-    
-    <a href="/vi/blog/archives">Blog Archives</a>
-    
-  </div>
-</div>
-<aside class="sidebar">
-  
-    <section>
-  <h1>Recent Posts</h1>
-  <ul id="recent_posts">
-    
-      <li class="post">
-        <a href="/vi/blog/2015/04/stack-overflow-survey/">Khảo Sát Năm 2015 Của Stack Overflow</a>
-      </li>
-    
-  </ul>
-</section>
-
-
-
-
-
-  
-</aside>
-
-    </div>
-  </div>
-  <footer role="contentinfo"><p>
-  Copyright &copy; 2015 - hoangddt -
-  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
-</p>
-
-</footer>
-  
-
-<script type="text/javascript">
-      var disqus_shortname = 'hoangddtvi';
-      
-        
-        var disqus_script = 'count.js';
-      
-    (function () {
-      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-      dsq.src = '//' + disqus_shortname + '.disqus.com/' + disqus_script;
-      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-    }());
-</script>
-
-
-
-<div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) {return;}
-  js = d.createElement(s); js.id = id; js.async = true;
-  js.src = "//connect.facebook.net/en_US/all.js#appId=212934732101925&xfbml=1";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
-
-
-
-  <script type="text/javascript">
-    (function() {
-      var script = document.createElement('script'); script.type = 'text/javascript'; script.async = true;
-      script.src = 'https://apis.google.com/js/plusone.js';
-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(script, s);
-    })();
-  </script>
-
-
-
-  <script type="text/javascript">
-    (function(){
-      var twitterWidgets = document.createElement('script');
-      twitterWidgets.type = 'text/javascript';
-      twitterWidgets.async = true;
-      twitterWidgets.src = '//platform.twitter.com/widgets.js';
-      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
-    })();
-  </script>
-
-
-
-
-
-</body>
-</html>
+</feed>
