@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Survey | HOÀNG]]></title>
-  <link href="http://hddt.github.io/vi/blog/categories/survey/atom.xml" rel="self"/>
-  <link href="http://hddt.github.io/vi/"/>
-  <updated>2015-06-06T20:56:48+07:00</updated>
-  <id>http://hddt.github.io/vi/</id>
+  <title><![CDATA[Category: Deal | HOÀNG]]></title>
+  <link href="http://blog.hoangddt.net/vi/post/categories/deal/atom.xml" rel="self"/>
+  <link href="http://blog.hoangddt.net/vi/"/>
+  <updated>2015-06-07T08:53:40+07:00</updated>
+  <id>http://blog.hoangddt.net/vi/</id>
   <author>
     <name><![CDATA[hoangddt]]></name>
     
@@ -15,10 +15,10 @@
   
   <entry>
     <title type="html"><![CDATA[Khảo Sát Năm 2015 Của Stack Overflow]]></title>
-    <link href="http://hddt.github.io/vi/blog/2015/04/stack-overflow-survey/"/>
+    <link href="http://blog.hoangddt.net/vi/post/2015/04/stack-overflow-survey/"/>
     <updated>2015-04-21T00:17:50+07:00</updated>
-    <id>http://hddt.github.io/vi/blog/2015/04/stack-overflow-survey</id>
-    <content type="html"><![CDATA[<h1 id="kho-st-nm-2015-ca-stack-overflow">Khảo sát năm 2015 của Stack Overflow</h1>
+    <id>http://blog.hoangddt.net/vi/post/2015/04/stack-overflow-survey</id>
+    <content type="html"><![CDATA[<!--more-->
 
 <p>Nếu bạn đang đọc bài này, có lẽ bạn là một nam developer khoảng hơn 20 tuổi. Bạn tự học lập trình bằng một máy tính chạy Windows và Notepad++. Bạn sử dụng Git và Javascript thường xuyên và uống 2 ly cà phê một ngày.
 Đó là <strong>hồ sơ</strong> chung của trung bình các developer Stack Overflow sau cuộc khảo sát <a href="http://stackoverflow.com/research/developer-survey-2015">năm 2015</a> của Stack Overflow. Hãy nhìn vào cuộc khảo sát này rõ hơn.</p>

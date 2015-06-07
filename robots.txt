@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://hddt.github.io/vi/sitemap.xml 
+Sitemap: http://blog.hoangddt.net/vi/sitemap.xml 
